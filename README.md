@@ -1,5 +1,4 @@
-# PerimeterX Solver
-PerimeterX - Handicapped
+# PerimeterX Reverse
 
 ----------
 
